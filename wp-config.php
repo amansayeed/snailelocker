@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'snailelockers_ENG' );
+define( 'DB_NAME', '##' );
 
 /** MySQL database username */
-define( 'DB_USER', 'snailelockers_ENG' );
+define( 'DB_USER', '## );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'hi&]Nc-!-X(O' );
+define( 'DB_PASSWORD', '##' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
